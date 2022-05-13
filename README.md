@@ -14,3 +14,4 @@ Final Project : Image Classification of Belajar Machine Learing untuk Pemula Cou
 - Menambahkan **data diri** (sesuai profil Dicoding) pada **submission/project** yang dikirimkan.
 
 ### ⭐ Rating
+![Rating Final Project Belajar Machine Learning untuk Pemula!](/FinalProject-BMLP-Rating.png "Rating")
